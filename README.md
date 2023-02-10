@@ -1,5 +1,7 @@
 ## Laravel Based CryptoBank App
 ### Author: [Niks Kuprēvičs](https://www.linkedin.com/in/niks-kupr%C4%93vi%C4%8Ds/)
+#### This project is intended for demonstration purposes only, and is not to be used or copied without permission.
+
 
 ### Description
 CryptoBank is a robust and secure Laravel-based
@@ -46,3 +48,4 @@ experience for managing crypto assets.
 ![Screenshot 2](Screenshots/Screenshot_2.png)
 ![Screenshot 3](Screenshots/Screenshot_3.png)
 ![Screenshot 4](Screenshots/Screenshot_4.png)
+
