@@ -1,6 +1,6 @@
 ## Laravel Based CryptoBank App
 ### Author: [Niks Kuprēvičs](https://www.linkedin.com/in/niks-kupr%C4%93vi%C4%8Ds/)
-#### This project is intended for demonstration purposes only, and is not to be used or copied without permission.
+#### This project is intended for skill demonstration purposes only, and is not to be used or copied without permission.
 
 
 ### Description
